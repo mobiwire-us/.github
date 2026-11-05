@@ -19,10 +19,6 @@ We take hardware from concept to production, with local project teams across the
 | **Yocto** | BSP layers for edge AI hardware |
 | **Linux** | Board support for edge AI hardware |
 
-## Languages
-
-C · C++ · Python · Shell · Java · Kotlin
-
 ## What we work on
 
 - **BSPs and OS enablement:** board support and OS images for our hardware.
