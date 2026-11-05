@@ -10,28 +10,23 @@ We take hardware from concept to production, with local project teams across the
 |:---:|:---:|:---:|:---:|
 | devices shipped in 2025 | in-house engineers | countries shipped to | units a month, full production capacity |
 
-## Dev platforms
+## Software we build
 
-| Platform | What we do |
+| Area | What we do |
 |---|---|
 | **Android** | OS customization, application software, and GMS certification |
 | **Debian** | BSPs for edge AI hardware |
 | **Yocto** | BSP layers for edge AI hardware |
-| **Linux** | Board support for edge AI hardware |
+| **Linux** | Board support and OS images for our hardware |
+| **Edge AI** | Deployment-ready firmware for NPUs from 3 to 200+ TOPS |
+| **Connectivity** | Software for cellular and 5G, Wi-Fi, Bluetooth, and NFC |
 
-## What we work on
-
-- **BSPs and OS enablement:** board support and OS images for our hardware.
-- **Edge AI:** deployment-ready firmware for NPUs from 3 to 200+ TOPS.
-- **Connectivity:** software for cellular and 5G, Wi-Fi, Bluetooth, and NFC.
-
-## Hardware verticals
+## Hardware we build
 
 | Vertical | What we make | |
 |---|---|---|
 | **Consumer** | Feature phones, smartphones, tablets, routers, and accessories | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-consumer.png" alt="Consumer" width="160"> |
 | **Fintech & Payments** | Handheld and tabletop POS, SoftPOS, and Tap-to-Pay solutions | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-fintech.png" alt="Fintech & Payments" width="160"> |
-| **Know Your Customer** | Smart devices for customer enrollment and SIM registration | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-kyc.png" alt="Know Your Customer" width="160"> |
 | **Industrial** | Handhelds, scanners, and logistics hardware | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-industrial.png" alt="Industrial" width="160"> |
 | **Medical & Healthcare** | Terminals, medical devices, and biometric devices | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-medical.png" alt="Medical & Healthcare" width="160"> |
 | **Automotive** | Infotainment, telematics, sensors, and vehicle communications | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-automotive.png" alt="Automotive" width="160"> |
