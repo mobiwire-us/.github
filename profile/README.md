@@ -31,21 +31,15 @@ C · C++ · Python · Shell · Java · Kotlin
 
 ## Hardware verticals
 
-We build hardware for these verticals:
-
-| Vertical | What we make |
-|---|---|
-| **Consumer** | Feature phones, smartphones, tablets, routers, and accessories |
-| **Fintech & Payments** | Handheld and tabletop POS, SoftPOS, and Tap-to-Pay solutions |
-| **Know Your Customer** | Smart devices for customer enrollment and SIM registration |
-| **Industrial** | Handhelds, scanners, and logistics hardware |
-| **Medical & Healthcare** | Terminals, medical devices, and biometric devices |
-| **Automotive** | Infotainment, telematics, sensors, and vehicle communications |
-| **Aerospace** | Drones, avionics, and airborne communications |
-
-| <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/rugged-pda.png" alt="Rugged PDA" width="150"> | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/smart-pos.png" alt="Smart POS" width="150"> | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/5g-cpe.png" alt="5G CPE" width="150"> |
-|:---:|:---:|:---:|
-| Rugged PDA | Smart POS | 5G CPE |
+| Vertical | What we make | |
+|---|---|---|
+| **Consumer** | Feature phones, smartphones, tablets, routers, and accessories | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-consumer.png" alt="Consumer" width="160"> |
+| **Fintech & Payments** | Handheld and tabletop POS, SoftPOS, and Tap-to-Pay solutions | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-fintech.png" alt="Fintech & Payments" width="160"> |
+| **Know Your Customer** | Smart devices for customer enrollment and SIM registration | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-kyc.png" alt="Know Your Customer" width="160"> |
+| **Industrial** | Handhelds, scanners, and logistics hardware | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-industrial.png" alt="Industrial" width="160"> |
+| **Medical & Healthcare** | Terminals, medical devices, and biometric devices | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-medical.png" alt="Medical & Healthcare" width="160"> |
+| **Automotive** | Infotainment, telematics, sensors, and vehicle communications | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-automotive.png" alt="Automotive" width="160"> |
+| **Aerospace** | Drones, avionics, and airborne communications | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/vertical-aerospace.png" alt="Aerospace" width="160"> |
 
 ## Code on GitHub
 
