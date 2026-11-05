@@ -1,10 +1,14 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/mobiwire-banner.png" alt="MobiWire" width="60%"></p>
-
 # MobiWire
 
-**Experts in Android, and a provider of Linux, Debian, and Yocto OS-based BSPs for edge AI hardware.**
+**A global ODM partner for high-compliance AI hardware.**
+
+We take hardware from concept to production, with local project teams across the US, EU, and Asia. On software, we are experts in Android, and we also provide Linux, Debian, and Yocto OS-based BSPs for edge AI hardware.
 
 [Website](https://mobiwire.com/us) · [Talk to us](https://mobiwire.com/us/contact) · github-it@mobiwire.com
+
+| 36M | 1,500+ | 90+ | 6.6M |
+|:---:|:---:|:---:|:---:|
+| devices shipped in 2025 | in-house engineers | countries shipped to | units a month, full production capacity |
 
 ## Dev platforms
 
@@ -25,11 +29,23 @@ C · C++ · Python · Shell · Java · Kotlin
 - **Edge AI:** deployment-ready firmware for NPUs from 3 to 200+ TOPS.
 - **Connectivity:** software for cellular and 5G, Wi-Fi, Bluetooth, and NFC.
 
-## Hardware we support
+## Hardware verticals
+
+We build hardware for these verticals:
+
+| Vertical | What we make |
+|---|---|
+| **Consumer** | Feature phones, smartphones, tablets, routers, and accessories |
+| **Fintech & Payments** | Handheld and tabletop POS, SoftPOS, and Tap-to-Pay solutions |
+| **Know Your Customer** | Smart devices for customer enrollment and SIM registration |
+| **Industrial** | Handhelds, scanners, and logistics hardware |
+| **Medical & Healthcare** | Terminals, medical devices, and biometric devices |
+| **Automotive** | Infotainment, telematics, sensors, and vehicle communications |
+| **Aerospace** | Drones, avionics, and airborne communications |
 
 | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/rugged-pda.png" alt="Rugged PDA" width="150"> | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/smart-pos.png" alt="Smart POS" width="150"> | <img src="https://raw.githubusercontent.com/mobiwire-us/.github/main/profile/images/5g-cpe.png" alt="5G CPE" width="150"> |
 |:---:|:---:|:---:|
-| Industrial | Fintech & Payments | Connectivity |
+| Rugged PDA | Smart POS | 5G CPE |
 
 ## Code on GitHub
 
