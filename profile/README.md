@@ -15,7 +15,7 @@ We take hardware from concept to production, with local project teams across the
 | Area | What we do |
 |---|---|
 | **Android** | OS customization, application software, and GMS certification |
-| **BSPs for edge AI hardware** | <ul><li>Debian</li><li>Yocto</li><li>Linux</li></ul> |
+| **BSPs for edge AI hardware** | <ul><li>Debian</li><li>Yocto</li><li>Ubuntu</li></ul> |
 | **Connectivity** | Drivers for cellular and 5G, Wi-Fi, Bluetooth, and NFC |
 
 ## Hardware we build
