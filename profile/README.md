@@ -15,11 +15,8 @@ We take hardware from concept to production, with local project teams across the
 | Area | What we do |
 |---|---|
 | **Android** | OS customization, application software, and GMS certification |
-| **Debian** | BSPs for edge AI hardware |
-| **Yocto** | BSP layers for edge AI hardware |
-| **Linux** | Board support and OS images for our hardware |
-| **Edge AI** | Deployment-ready firmware for NPUs from 3 to 200+ TOPS |
-| **Connectivity** | Software for cellular and 5G, Wi-Fi, Bluetooth, and NFC |
+| **BSPs for edge AI hardware** | <ul><li>Debian</li><li>Yocto</li><li>Linux</li></ul> |
+| **Connectivity** | Drivers for cellular and 5G, Wi-Fi, Bluetooth, and NFC |
 
 ## Hardware we build
 
